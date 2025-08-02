@@ -1,4 +1,4 @@
-<img width="1200" height="627" alt="image" src="https://github.com/user-attachments/assets/c29efcbb-5868-4871-997d-911748ebcea1" />
+<img width="1120" height="590" alt="image" src="https://github.com/user-attachments/assets/532906fe-440c-4f9c-8125-e5127898291d" />
 This repository contains the code for a Python-based keylogger designed for educational purposes and ethical hacking practice. The keylogger monitors user activity by recording keystrokes, tracking mouse clicks, and taking periodic screenshots. It operates covertly, sending captured data to a designated email, and ensures persistence through system startup integration, making it ideal for learning about system vulnerabilities and data exfiltration techniques.
 
 Key Features:
